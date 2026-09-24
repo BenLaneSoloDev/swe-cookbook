@@ -4,7 +4,6 @@
   "description": "Example of creating a transaction from scratch in JS",
   "license": "ISC",
   "author": "Benjamin Lane",
-  "type": "commonjs",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
